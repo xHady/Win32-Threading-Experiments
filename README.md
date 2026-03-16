@@ -1,2 +1,2 @@
 # Win32-Threading-Experiments
-Learning threads
+Small experiments I wrote while learning multithreading using the Windows API in C++.
